@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://aswani-sales-gz9r.vercel.app/</loc>
-  </url>
+  <url><loc>https://aswani-sales-gz9r.vercel.app/</loc></url>
+  <url><loc>https://aswani-sales-gz9r.vercel.app/footwear-wholesale/</loc></url>
+  <url><loc>https://aswani-sales-gz9r.vercel.app/mens-footwear-wholesale/</loc></url>
+  <url><loc>https://aswani-sales-gz9r.vercel.app/womens-footwear-wholesale/</loc></url>
+  <url><loc>https://aswani-sales-gz9r.vercel.app/kids-footwear-wholesale/</loc></url>
+  <url><loc>https://aswani-sales-gz9r.vercel.app/become-a-retailer/</loc></url>
 </urlset>
